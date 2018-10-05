@@ -11,18 +11,23 @@ WordPress のデザインには、複数の領域が含まれています。
 *   The interface and experience design of [official WordPress.org plugins](https://profiles.wordpress.org/wordpressdotorg#content-plugins)
 *   The WordPress.org website, and its various subsections like Make, the Devhub, the Support forums, etc.
 *   Promotional and marketing materials for WordPress, in collaboration with the Marketing and Community teams -->
-WordPress ソフトウェア自体のインターフェースとユーザーエクスペリエンス
-* [公式WordPress.orgプラグイン]（https://profiles.wordpress.org/wordpressdotorg#content-plugins）のインターフェイスとユーザーエクスペリエンス
+*   WordPress ソフトウェア自体のインターフェースとユーザーエクスペリエンス
+* [公式WordPress.orgプラグイン](https://profiles.wordpress.org/wordpressdotorg#content-plugins) のインターフェイスとユーザーエクスペリエンス
 * WordPress.org の Web サイト、および Make、Devhub、サポートフォーラムなどのさまざまな区分け
 * マーケティングチームおよびコミュニティチームと協力して作られたWordPress のプロモーションおよびマーケティング資料
 
-## What should I do if I have a design suggestion?
+<!-- ## What should I do if I have a design suggestion? -->
+## デザインの提案があるときには、どうすればいいか
 
-If you have a design suggestion for any part of the WordPress project, you can do one of the following:
+<!-- If you have a design suggestion for any part of the WordPress project, you can do one of the following: -->
+WordPress プロジェクトにデザイン提案がある場合は、次のいずれかを実行できます。
 
-*   Jump into the [#design](https://wordpress.slack.com/archives/design) channel on [Making WordPress Slack](https://make.wordpress.org/chat) and suggest it; one of the design team reps will chat with you about your suggestion and steer you towards somewhere permanent to record your suggestion.
+<!-- *   Jump into the [#design](https://wordpress.slack.com/archives/design) channel on [Making WordPress Slack](https://make.wordpress.org/chat) and suggest it; one of the design team reps will chat with you about your suggestion and steer you towards somewhere permanent to record your suggestion.
 *   If it is related to the design of the WordPress software itself, report it as an “enhancement” or “feature request” on [WordPress Core Trac](https://core.trac.wordpress.org/). Learn more about making a Core Trac ticket on the [Areas to Contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) page.
-*   If it is about the design of the WordPress.org website, or a similar non-software part of the WordPress project, create a new ticket on [WordPress Meta Trac](https://meta.trac.wordpress.org/).
+*   If it is about the design of the WordPress.org website, or a similar non-software part of the WordPress project, create a new ticket on [WordPress Meta Trac](https://meta.trac.wordpress.org/). -->
+* [Making WordPress Slack](https://make.wordpress.org/chat) の [#design](https://wordpress.slack.com/archives/design) チャンネルにジャンプし、それを提案してください。 設計チームの担当者の1人があなたの提案についてあなたとチャットし、あなたの提案を永久に記録するために取り計らいます。
+* WordPress ソフトウェアのデザインに関連する場合は、[WordPress Core Trac](https://core.trac.wordpress.org/) の「機能強化」または「機能要求」として報告してください。 [コントリビュートエリア](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) ページで Core Trac チケットを作成する方法の詳細をご覧ください。
+* WordPress.org のウェブサイトや WordPress プロジェクトの同様のソフトウェア以外の部分については、[WordPress Meta Trac](https://meta.trac.wordpress.org/) で新しいチケットを作成してください。 
 
 ## What should I do if I’ve found a design-related bug?
 
