@@ -51,9 +51,9 @@ WordPress プロジェクトにデザイン提案がある場合は、次のい�
 *   [InVision](https://www.invisionapp.com/), [Marvel](https://marvelapp.com/), or [CodePen](https://codepen.io/) for prototypes.
 *   A copy of the development version of WordPress for testing. You can either use the [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/), or install a local copy of the [develop repository](https://make.wordpress.org/core/handbook/contribute/#the-repositories). You’ll need the second if you want to test code patches on Trac. -->
 * [Balsamiq](https://balsamiq.com/)、[Sketch](https://www.sketchapp.com/)、またはワイヤフレーム用の鉛筆と紙。
-*モックアップ用の [Sketch](https://www.sketchapp.com/) 。
-*プロトタイプ用の [InVision](https://www.invisionapp.com/)、[Marvel](https://marvelapp.com/)、[CodePen](https://codepen.io/)
-*テスト用の WordPress の開発版のコピー。 [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/)を使用するか、[開発リポジトリ](https://make.wordpress.org/core/handbook/contribute/#the-repositories) のローカルコピーを参照してください。 Trac でコードパッチをテストする場合は、2番目のコードが必要です。
+* モックアップ用の [Sketch](https://www.sketchapp.com/) 。
+* プロトタイプ用の [InVision](https://www.invisionapp.com/)、[Marvel](https://marvelapp.com/)、[CodePen](https://codepen.io/)
+* テスト用の WordPress の開発版のコピー。 [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/)を使用するか、[開発リポジトリ](https://make.wordpress.org/core/handbook/contribute/#the-repositories) のローカルコピーを参照してください。 Trac でコードパッチをテストする場合は、2番目が必要です。
 
 <!-- ## Who makes the final call on design issues? -->
 ## デザイン上の問題について、誰が最終的な決定をおこないますか？
