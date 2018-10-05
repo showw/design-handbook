@@ -17,7 +17,7 @@ WordPress のデザインには、複数の領域が含まれています。
 * マーケティングチームおよびコミュニティチームと協力して作られたWordPress のプロモーションおよびマーケティング資料
 
 <!-- ## What should I do if I have a design suggestion? -->
-## デザインの提案があるときには、どうすればいいか
+## デザインの提案があるときには、どうすればいいですか？
 
 <!-- If you have a design suggestion for any part of the WordPress project, you can do one of the following: -->
 WordPress プロジェクトにデザイン提案がある場合は、次のいずれかを実行できます。
@@ -30,7 +30,7 @@ WordPress プロジェクトにデザイン提案がある場合は、次のい�
 * WordPress.org のウェブサイトや WordPress プロジェクトの同様のソフトウェア以外の部分については、[WordPress Meta Trac](https://meta.trac.wordpress.org/) で新しいチケットを作成してください。 
 
 <!-- ## What should I do if I’ve found a design-related bug? -->
-## デザイン関連のバグが見つかった場合には、どうすればよいですか？
+## デザイン関連のバグが見つかった場合には、どうすればいいですか？
 
 <!-- *   If it is related to the design of the WordPress software itself, report it as a “bug” on [WordPress Core Trac](https://core.trac.wordpress.org/). Learn more about making a Core Trac ticket on the [Areas to Contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) page.
 *   If the bug is on the WordPress.org website, or a similar non-software part of the WordPress project, create a new ticket on [WordPress Meta Trac](https://meta.trac.wordpress.org/). -->
