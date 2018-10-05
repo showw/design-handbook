@@ -29,22 +29,34 @@ WordPress プロジェクトにデザイン提案がある場合は、次のい�
 * WordPress ソフトウェアのデザインに関連する場合は、[WordPress Core Trac](https://core.trac.wordpress.org/) の「機能強化」または「機能要求」として報告してください。 [コントリビュートエリア](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) ページで Core Trac チケットを作成する方法の詳細をご覧ください。
 * WordPress.org のウェブサイトや WordPress プロジェクトの同様のソフトウェア以外の部分については、[WordPress Meta Trac](https://meta.trac.wordpress.org/) で新しいチケットを作成してください。 
 
-## What should I do if I’ve found a design-related bug?
+<!-- ## What should I do if I’ve found a design-related bug? -->
+デザイン関連のバグが見つかった場合には、どうすればよいですか？
 
-*   If it is related to the design of the WordPress software itself, report it as a “bug” on [WordPress Core Trac](https://core.trac.wordpress.org/). Learn more about making a Core Trac ticket on the [Areas to Contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) page.
-*   If the bug is on the WordPress.org website, or a similar non-software part of the WordPress project, create a new ticket on [WordPress Meta Trac](https://meta.trac.wordpress.org/).
+<!-- *   If it is related to the design of the WordPress software itself, report it as a “bug” on [WordPress Core Trac](https://core.trac.wordpress.org/). Learn more about making a Core Trac ticket on the [Areas to Contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) page.
+*   If the bug is on the WordPress.org website, or a similar non-software part of the WordPress project, create a new ticket on [WordPress Meta Trac](https://meta.trac.wordpress.org/). -->
+* WordPress ソフトウェア自体のデザインに関連している場合は、[WordPress Core Trac](https://core.trac.wordpress.org/) の「バグ」として報告してください。 [コントリビュートエリア](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) ページで Core Trac チケットを作成する方法の詳細をご覧ください。
+* バグが WordPress.org ウェブサイトや WordPress プロジェクトの同様のソフトウェア以外の部分にある場合は、[WordPress Meta Trac](https://meta.trac.wordpress.org/) で新しいチケットを作成してください。
 
-## What software do I need to contribute?
+<!-- ## What software do I need to contribute? -->
+貢献するためにはどんなソフトウェアが必要ですか？
 
-Nothing but your brain!
+<!-- Nothing but your brain! -->
+あなたの頭だけです。他になにもいりません！
 
-However, members of the design team recommend:
+<!-- However, members of the design team recommend: -->
+ただし、設計チームのメンバーは以下を推奨します。
 
-*   [Balsamiq](https://balsamiq.com/), [Sketch](https://www.sketchapp.com/), or pencil & paper for wireframes.
+<!-- *   [Balsamiq](https://balsamiq.com/), [Sketch](https://www.sketchapp.com/), or pencil & paper for wireframes.
 *   [Sketch](https://www.sketchapp.com/) for mockups.
 *   [InVision](https://www.invisionapp.com/), [Marvel](https://marvelapp.com/), or [CodePen](https://codepen.io/) for prototypes.
-*   A copy of the development version of WordPress for testing. You can either use the [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/), or install a local copy of the [develop repository](https://make.wordpress.org/core/handbook/contribute/#the-repositories). You’ll need the second if you want to test code patches on Trac.
+*   A copy of the development version of WordPress for testing. You can either use the [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/), or install a local copy of the [develop repository](https://make.wordpress.org/core/handbook/contribute/#the-repositories). You’ll need the second if you want to test code patches on Trac. -->
+* [Balsamiq](https://balsamiq.com/)、[Sketch](https://www.sketchapp.com/)、またはワイヤフレーム用の鉛筆と紙。
+*モックアップ用の [Sketch](https://www.sketchapp.com/) 。
+*プロトタイプ用の [InVision](https://www.invisionapp.com/)、[Marvel](https://marvelapp.com/)、[CodePen](https://codepen.io/)
+*テスト用の WordPress の開発版のコピー。 [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/)を使用するか、[開発リポジトリ](https://make.wordpress.org/core/handbook/contribute/#the-repositories) のローカルコピーを参照してください。 Trac でコードパッチをテストする場合は、2番目のコードが必要です。
 
-## Who makes the final call on design issues?
+<!-- ## Who makes the final call on design issues? -->
+デザイン上の問題について、誰が最終的な決定をおこないますか？
 
-Within core focuses, the focus’ [Design Leads](https://make.wordpress.org/core/2017/01/04/focus-tech-and-design-leads/) make the final call. For components and other topics outside of focuses, the [Project Leads](https://wordpress.org/about/) have the final call.
+<!-- Within core focuses, the focus’ [Design Leads](https://make.wordpress.org/core/2017/01/04/focus-tech-and-design-leads/) make the final call. For components and other topics outside of focuses, the [Project Leads](https://wordpress.org/about/) have the final call. -->
+コアフォーカスの中で、フォーカス [デザインリード](https://make.wordpress.org/core/2017/01/04/focus-tech-and-design-leads/) が最終決定を行います。 フォーカスの外にあるコンポーネントやその他のトピックについては、[プロジェクトリード](https://wordpress.org/about/) に最終的な決定をします。
