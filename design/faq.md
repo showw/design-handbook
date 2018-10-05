@@ -30,7 +30,7 @@ WordPress プロジェクトにデザイン提案がある場合は、次のい�
 * WordPress.org のウェブサイトや WordPress プロジェクトの同様のソフトウェア以外の部分については、[WordPress Meta Trac](https://meta.trac.wordpress.org/) で新しいチケットを作成してください。 
 
 <!-- ## What should I do if I’ve found a design-related bug? -->
-デザイン関連のバグが見つかった場合には、どうすればよいですか？
+## デザイン関連のバグが見つかった場合には、どうすればよいですか？
 
 <!-- *   If it is related to the design of the WordPress software itself, report it as a “bug” on [WordPress Core Trac](https://core.trac.wordpress.org/). Learn more about making a Core Trac ticket on the [Areas to Contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/) page.
 *   If the bug is on the WordPress.org website, or a similar non-software part of the WordPress project, create a new ticket on [WordPress Meta Trac](https://meta.trac.wordpress.org/). -->
@@ -38,7 +38,7 @@ WordPress プロジェクトにデザイン提案がある場合は、次のい�
 * バグが WordPress.org ウェブサイトや WordPress プロジェクトの同様のソフトウェア以外の部分にある場合は、[WordPress Meta Trac](https://meta.trac.wordpress.org/) で新しいチケットを作成してください。
 
 <!-- ## What software do I need to contribute? -->
-貢献するためにはどんなソフトウェアが必要ですか？
+## 貢献するためにはどんなソフトウェアが必要ですか？
 
 <!-- Nothing but your brain! -->
 あなたの頭だけです。他になにもいりません！
@@ -56,7 +56,7 @@ WordPress プロジェクトにデザイン提案がある場合は、次のい�
 *テスト用の WordPress の開発版のコピー。 [Beta Tester plugin](https://make.wordpress.org/core/handbook/testing/beta/)を使用するか、[開発リポジトリ](https://make.wordpress.org/core/handbook/contribute/#the-repositories) のローカルコピーを参照してください。 Trac でコードパッチをテストする場合は、2番目のコードが必要です。
 
 <!-- ## Who makes the final call on design issues? -->
-デザイン上の問題について、誰が最終的な決定をおこないますか？
+## デザイン上の問題について、誰が最終的な決定をおこないますか？
 
 <!-- Within core focuses, the focus’ [Design Leads](https://make.wordpress.org/core/2017/01/04/focus-tech-and-design-leads/) make the final call. For components and other topics outside of focuses, the [Project Leads](https://wordpress.org/about/) have the final call. -->
 コアフォーカスの中で、フォーカス [デザインリード](https://make.wordpress.org/core/2017/01/04/focus-tech-and-design-leads/) が最終決定を行います。 フォーカスの外にあるコンポーネントやその他のトピックについては、[プロジェクトリード](https://wordpress.org/about/) に最終的な決定をします。
